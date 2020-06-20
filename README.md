@@ -4,12 +4,7 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 
 
 
-  _____                _ __  __      
- |  __ \              | |  \/  |     
- | |__) |___  __ _  __| | \  / | ___ 
- |  _  // _ \/ _` |/ _` | |\/| |/ _ \
- | | \ \  __/ (_| | (_| | |  | |  __/
- |_|  \_\___|\__,_|\__,_|_|  |_|\___|
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**README**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *To edit the options simply chage each line above while following the ==Options for variables== guide (helps to turn on line numbers in your txt editor)
 
@@ -38,14 +33,7 @@ Go to my Github for updates, posts issues or questions, or request new features.
 
 
 
-   ____        _   _                 
-  / __ \      | | (_)                
- | |  | |_ __ | |_ _  ___  _ __  ___ 
- | |  | | '_ \| __| |/ _ \| '_ \/ __|
- | |__| | |_) | |_| | (_) | | | \__ \
-  \____/| .__/ \__|_|\___/|_| |_|___/
-        | |                          
-        |_|                          
+                        
 ==========**Options for variables**=========
 *********EVERYTHING IS CASE SENSITIVE********
 Are you using obs obs or shadowplay to record clips?----------------------------------------------------First line usage: {obs} or {shadowplay}
@@ -67,12 +55,7 @@ A custom sound's location to play when a GKey is pressed and no file is moved===
 
 
 
-  _   _       _            
- | \ | |     | |           
- |  \| | ___ | |_ ___  ___ 
- | . ` |/ _ \| __/ _ \/ __|
- | |\  | (_) | ||  __/\__ \
- |_| \_|\___/ \__\___||___/
+
 -----------------**NOTES**--------------------
 First Line: 	The difference with the options is whether you want to watch subtrees or not because shadowplay seperates clips by game
 Second Line: 	This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
@@ -99,12 +82,7 @@ Thirteenth Line: This must not be chaged it tell the program this is the end of 
 
 
 
-  _____       __                                  
- |  __ \     / _|                                 
- | |__) |___| |_ ___ _ __ ___ _ __   ___ ___  ___ 
- |  _  // _ \  _/ _ \ '__/ _ \ '_ \ / __/ _ \/ __|
- | | \ \  __/ ||  __/ | |  __/ | | | (_|  __/\__ \
- |_|  \_\___|_| \___|_|  \___|_| |_|\___\___||___/
+
 **References**
 
 
