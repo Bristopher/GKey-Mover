@@ -6,6 +6,11 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 <br /> 
 
 __Everything below here is basically the same as what gets generated in your options.txt from Gui Generator__ 
+<br /> I
+<br /> I
+<br /> I
+<br /> v
+
 
 # README
 To edit the options simply chage each line above while following the ```Options for variables``` guide (helps to turn on line numbers in your txt editor)
