@@ -25,7 +25,7 @@ there will be a copy at the bottom of this txt to reference as an example for th
 
 `"DO NOT EDIT THIS SINGLE LINE OF TEXT"`
  MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES\
- \
+
  
  
 Go to my Github for updates, posts issues or questions, or request new features.
