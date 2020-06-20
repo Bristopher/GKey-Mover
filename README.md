@@ -22,7 +22,9 @@ By default I filled out the variables for what I use,
 there will be a copy at the bottom of this txt to reference as an example for the future if you ever need it.
 
 **DO NOT EDIT THE ELEVENTH LINE.** 
+
 "DO NOT EDIT THIS SINGLE LINE OF TEXT" 
+
 MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES
 
 Go to my Github for updates, posts issues or questions, or request new features.
