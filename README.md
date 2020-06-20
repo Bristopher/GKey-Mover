@@ -2,9 +2,9 @@
 A Script that lets you sort your clips while you're creating them. Also has options for notifications when a clip is saved or moved, and many more features. Currently is configured to work best with either OBS or ShadowPlay.
 
 
-
-
-
+<br />
+<br />
+Everything below here is basically the same as what gets generated in your options.txt from Gui Generator
 # README
 To edit the options simply chage each line above while following the ```Options for variables``` guide (helps to turn on line numbers in your txt editor)
 
