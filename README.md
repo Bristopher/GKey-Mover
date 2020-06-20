@@ -4,6 +4,7 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 
 <br />
 <br /> 
+
 __Everything below here is basically the same as what gets generated in your options.txt from Gui Generator__ 
 
 # README
