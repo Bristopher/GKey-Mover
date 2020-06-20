@@ -26,14 +26,14 @@ there will be a copy at the bottom of this txt to reference as an example for th
 
 Go to my Github for updates, posts issues or questions, or request new features.
 -https://github.com/Bristopher/GKey-Mover
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 
 
 
-                        
+
+
 # Options for variables
 *********EVERYTHING IS CASE SENSITIVE********
 Are you using obs obs or shadowplay to record clips?----------------------------------------------------First line usage: {obs} or {shadowplay}
@@ -48,7 +48,7 @@ What do you want your bind3 folder name to be?----------------------------------
 A custom sound's location to play when a clip is saved==================================================Tenth line usage: {C:\Users\cbuzi\Documents\CrimewaveTone.wav} or leave blank for default
 Do you want a sound played when a Gkey is pressed and doesn't move a video?--------------------------Eleventh line usage: {True} or {False}
 A custom sound's location to play when a GKey is pressed and no file is moved=========================Twelvth line usage: {C:\Users\cbuzi\Documents\CrimewaveTone.wav} or leave blank for default
-==============================================
+
 
 
 
@@ -70,7 +70,6 @@ Tenth Line:	FIFTH LINE MUST BE TRUE FOR THIS TO WORK, Just put the path of a sou
 Eleventh Line: This plays a notification sound when no clip was moved / no clip is slected and nothing has moved, helps if you want to spam buttom to make sure a clip moved
 Twelvth Line: ELEVENTH LINE MUST BE TRUE FOR THIS TO WORK, Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
 Thirteenth Line: This must not be chaged it tell the program this is the end of the options part of this txt
-----------------------------------------------
 
 
 
