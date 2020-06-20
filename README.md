@@ -67,31 +67,46 @@ A custom sound's location to play when a GKey is pressed and no file is moved===
 
 
 # NOTES
-First Line: 	The difference with the options is whether you want to watch subtrees or not because shadowplay seperates clips by game
+**First Line:**
+The difference with the options is whether you want to watch subtrees or not because shadowplay seperates clips by game
 
-Second Line: 	This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
+**Second Line:**
+This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
 
-Third Line:	Just the locations to tell shadowplay or Obs to save your videos to
+**Third Line:**
+Just the locations to tell shadowplay or Obs to save your videos to
 
-Fourth Line:	This is just a standard Windows notifcation the pops up for a couple seconds and lets you be aware the clips did actually save and displays the name of the clip
+**Fourth Line:**
+This is just a standard Windows notifcation the pops up for a couple seconds and lets you be aware the clips did actually save and displays the name of the clip
 
-Fifth Line:	This plays a notificaiton sound when a clip is saved, unless the sound is chaged on the tenth line a default sound will play
+**Fifth Line:**
+This plays a notificaiton sound when a clip is saved, unless the sound is chaged on the tenth line a default sound will play
 
-Sixth Line:	This plays a notificaiton sound (Single beep for G1, Double beep for G2, Triple Beep for G3) when a clip moved by a G bind
+**Sixth Line:**	
+This plays a notificaiton sound (Single beep for G1, Double beep for G2, Triple Beep for G3) when a clip moved by a G bind
 
-Seventh Line:	Simply the name of the folder to move clips to
+**Seventh Line:**
+Simply the name of the folder to move clips to
 
-Eigth Line:	Simply the name of the folder to move clips to
+**Eigth Line:**
+Simply the name of the folder to move clips to
 
-Ninth Line:	Simply the name of the folder to move clips to
+**Ninth Line:**
+Simply the name of the folder to move clips to
 
-Tenth Line:	FIFTH LINE MUST BE TRUE FOR THIS TO WORK, Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
+**Tenth Line:**	
+**FIFTH LINE MUST BE TRUE FOR THIS TO WORK**
+Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
 
-Eleventh Line: This plays a notification sound when no clip was moved / no clip is slected and nothing has moved, helps if you want to spam buttom to make sure a clip moved
+**Eleventh Line:**
+This plays a notification sound when no clip was moved / no clip is slected and nothing has moved, helps if you want to spam buttom to make sure a clip moved
 
-Twelvth Line: ELEVENTH LINE MUST BE TRUE FOR THIS TO WORK, Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
+**Twelvth Line:**
+**ELEVENTH LINE MUST BE TRUE FOR THIS TO WORK** 
+Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
 
-Thirteenth Line: This must not be chaged it tell the program this is the end of the options part of this txt
+**Thirteenth Line:** 
+This must not be chaged it tell the program this is the end of the options part of this txt
 
 
 
@@ -108,8 +123,7 @@ Thirteenth Line: This must not be chaged it tell the program this is the end of 
 
 
 My default variables for obs (DON'T TOUCH THIS IS A REFERENCE)
--------------------------------------------------------------------------
-obs
+`obs
 True
 C:\Users\cbuzi\Videos\OBS NVENC Videos
 False
@@ -121,14 +135,13 @@ odd or checked (G2)
 default
 True
 default
-DO NOT EDIT THIS SINGLE LINE OF TEXT
--------------------------------------------------------------------------
+DO NOT EDIT THIS SINGLE LINE OF TEXT`
+
 
 
 
 My default variables for shadowplay (DON'T TOUCH THIS IS A REFERENCE)
--------------------------------------------------------------------------
-shadowplay
+`shadowplay
 True
 C:\Users\cbuzi\Videos
 False
@@ -140,5 +153,5 @@ odd or checked (G2)
 default
 True
 default
-DO NOT EDIT THIS SINGLE LINE OF TEXT
-------------------------------------------------------------------------
+DO NOT EDIT THIS SINGLE LINE OF TEXT`
+
