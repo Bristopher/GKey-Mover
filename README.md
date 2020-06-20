@@ -84,11 +84,11 @@ Twelvth line usage: {C:\Users\cbuzi\Documents\CrimewaveTone.wav} or leave blank 
 # NOTES
 **First Line:**
 
-The difference with the options is whether you want to watch subtrees or not because shadowplay seperates clips by game
+<The difference with the options is whether you want to watch subtrees or not because shadowplay seperates clips by game
 
 **Second Line:**
 
-This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
+>This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
 
 **Third Line:**
 
@@ -154,33 +154,21 @@ This must not be chaged it tell the program this is the end of the options part 
 
 My default variables for obs 
 **(DON'T EDIT THIS, IT'S A REFERENCE)**
-`
+```
 obs
-
 True
-
 C:\Users\cbuzi\Videos\OBS NVENC Videos
-
 False
-
 True
-
 True
-
 !! or ! (G1)
-
 odd or checked (G2)
-
 !!! (G3)
-
 default
-
 True
-
 default
-
 DO NOT EDIT THIS SINGLE LINE OF TEXT
-`
+```
 
 
 
