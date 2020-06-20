@@ -3,11 +3,11 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 <br /> 
 <br /> 
 <br /> 
+<br /> 
+
 Once you double click GKey Mover it will unpack its files so I suggest putting it in its own folder first. After double clicking it, use Gkey Mover Config Generator Gui to create a config file to start using the program.
 
 <br />
-<br /> 
-<br /> 
 
 __Everything below here is basically a rip from what gets generated in your options.txt from Gui Generator which you will get acess to when you double click GKey Mover__ 
 
