@@ -30,7 +30,6 @@ there will be a copy at the bottom of this txt to reference as an example for th
  <br />
  
 Go to my Github for updates, posts issues or questions, or request new features.
-
 https://github.com/Bristopher/GKey-Mover
 
 
