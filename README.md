@@ -29,7 +29,7 @@ there will be a copy at the bottom of this txt to reference as an example for th
  <br />
  <br />
  
-Go to my Github for updates, posts issues or questions, or request new features.
+Go to my Github for updates, posts issues or questions, or request new features.<br />
 https://github.com/Bristopher/GKey-Mover
 
 
