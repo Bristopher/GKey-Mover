@@ -6,7 +6,7 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 
 
 # README
-To edit the options simply chage each line above while following the **Options for variables** guide (helps to turn on line numbers in your txt editor)
+To edit the options simply chage each line above while following the ```Options for variables``` guide (helps to turn on line numbers in your txt editor)
 
 Only edit varaibles at top of options files if you've read below about what each ones means.
 
@@ -21,11 +21,13 @@ Don't try to rename the folders afterwards, it will only move the files to a fol
 By default I filled out the variables for what I use,
 there will be a copy at the bottom of this txt to reference as an example for the future if you ever need it.
 
-**DO NOT EDIT THE ELEVENTH LINE,** "DO NOT EDIT THIS SINGLE LINE OF TEXT" MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES
+**DO NOT EDIT THE ELEVENTH LINE.** 
+"DO NOT EDIT THIS SINGLE LINE OF TEXT" 
+MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES
 
 Go to my Github for updates, posts issues or questions, or request new features.
 
--https://github.com/Bristopher/GKey-Mover
+https://github.com/Bristopher/GKey-Mover
 
 
 
@@ -118,9 +120,7 @@ A custom sound's location to play when a GKey is pressed and no file is moved
 
 >Simply the name of the folder to move clips to
 
-**Tenth Line:**	
-
-**FIFTH LINE MUST BE TRUE FOR THIS TO WORK**
+**Tenth Line:**	 **FIFTH LINE MUST BE TRUE FOR THIS TO WORK**
 
 >Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
 
@@ -128,9 +128,7 @@ A custom sound's location to play when a GKey is pressed and no file is moved
 
 >This plays a notification sound when no clip was moved / no clip is slected and nothing has moved, helps if you want to spam buttom to make sure a clip moved
 
-**Twelvth Line:**
-
-**ELEVENTH LINE MUST BE TRUE FOR THIS TO WORK** 
+**Twelvth Line:** **ELEVENTH LINE MUST BE TRUE FOR THIS TO WORK** 
 
 >Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
 
