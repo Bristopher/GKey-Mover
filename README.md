@@ -5,7 +5,7 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**README**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# README
 *To edit the options simply chage each line above while following the ==Options for variables== guide (helps to turn on line numbers in your txt editor)
 
 ^^^^^^^^^^^^^^^^^
@@ -34,7 +34,7 @@ Go to my Github for updates, posts issues or questions, or request new features.
 
 
                         
-==========**Options for variables**=========
+# Options for variables
 *********EVERYTHING IS CASE SENSITIVE********
 Are you using obs obs or shadowplay to record clips?----------------------------------------------------First line usage: {obs} or {shadowplay}
 Do you want a log to be generated that logs which file was moved to which G binded folder?==============Second line usage: {True} or {False}
@@ -56,7 +56,7 @@ A custom sound's location to play when a GKey is pressed and no file is moved===
 
 
 
------------------**NOTES**--------------------
+# NOTES
 First Line: 	The difference with the options is whether you want to watch subtrees or not because shadowplay seperates clips by game
 Second Line: 	This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
 Third Line:	Just the locations to tell shadowplay or Obs to save your videos to
@@ -83,7 +83,7 @@ Thirteenth Line: This must not be chaged it tell the program this is the end of 
 
 
 
-**References**
+# References
 
 
 My default variables for obs (DON'T TOUCH THIS IS A REFERENCE)
