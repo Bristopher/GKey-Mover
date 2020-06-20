@@ -2,7 +2,7 @@
 A Script that lets you sort your clips while you're creating them. Also has options for notifications when a clip is saved or moved, and many more features. Currently is configured to work best with either OBS or ShadowPlay. 
 <br /> 
 
-Once you double click GKey Mover it will unpack its files so I suggest putting it in its own folder first. After double clicking it use Gkey Mover Config Generator Gui to create a config file to start using the program
+Once you double click GKey Mover it will unpack its files so I suggest putting it in its own folder first. After double clicking it, use Gkey Mover Config Generator Gui to create a config file to start using the program.
 
 <br />
 <br /> 
