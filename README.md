@@ -4,7 +4,8 @@ A Script that lets you sort your clips while you're creating them. Also has opti
 
 <br />
 <br />
-Everything below here is basically the same as what gets generated in your options.txt from Gui Generator
+Everything below here is basically the same as what gets generated in your options.txt from Gui Generator 
+
 # README
 To edit the options simply chage each line above while following the ```Options for variables``` guide (helps to turn on line numbers in your txt editor)
 
