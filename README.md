@@ -80,7 +80,11 @@ Do you want a sound played when a Gkey is pressed and doesn't move a video?
 A custom sound's location to play when a GKey is pressed and no file is moved
 **Twelvth line usage: {C:\Users\cbuzi\Documents\CrimewaveTone.wav} or leave blank for default**
 
+Do you want to be prompt whether to use OBS or ShadowPlay when you launch GKey Mover?
+**Thirteenth line usage: {True} or {False}**
 
+Location where ShadowPlay folder is if the checkbox above is checked
+**Fourteenth line usage: {C:\Users\cbuzi\Videos}**
 
 
 
@@ -136,7 +140,15 @@ A custom sound's location to play when a GKey is pressed and no file is moved
 
 >Just put the path of a sound to play when you save a clip including the file extension, put {default} in the option.txt for the default sound
 
-**Thirteenth Line:** 
+**Thirteenth Line:**
+
+>Just select if you use both ShadowPlay and OBS, this lets you select which one your using when oyu launch GKey Movie
+
+**Fourteenth Line:** **THIRTEENTH LINE MUST BE TRUE FOR THIS TO WORK**
+
+>Just put the path of where ShadowPlay folder is including the file extension, put {default} in the option.txt to not use this
+
+**Fifteenth Line:** 
 
 >This must not be chaged it tell the program this is the end of the options part of this txt
 
@@ -169,6 +181,8 @@ odd or checked (G2)
 default
 True
 default
+False
+default
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
 
@@ -189,6 +203,8 @@ odd or checked (G2)
 !!! (G3)
 default
 True
+default
+False
 default
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
