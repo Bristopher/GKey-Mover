@@ -9,7 +9,7 @@ __Everything below here is basically a rip from what gets generated in your opti
 # README
 To edit the options simply chage each line above while following the ```Options for variables``` guide (helps to turn on line numbers in your txt editor)
 
-Only edit varaibles at top of options files if you've read below about what each ones means.
+Only edit varaibles at top of options files if you've read below about what each ones means
 
 Make sure your folders are actually created when you try to use a bind because sometimes the names can be invalid and nothing will happen
 
@@ -25,7 +25,7 @@ there will be a copy at the bottom of this txt to reference as an example for th
 **DO NOT EDIT THE ELEVENTH LINE.** 
 
 `"DO NOT EDIT THIS SINGLE LINE OF TEXT"`
- MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES\
+ MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES
 
  <br />
  <br />
@@ -44,7 +44,7 @@ https://github.com/Bristopher/GKey-Mover
 **EVERYTHING IS CASE SENSITIVE**
 
 
-Are you using obs obs or shadowplay to record clips?
+Are you using OBS or ShadowPlay to record clips?
 **First line usage: {obs} or {shadowplay}**
 
 Do you want a log to be generated that logs which file was moved to which G binded folder?
@@ -98,11 +98,11 @@ Location where ShadowPlay folder is if the checkbox above is checked
 
 **Second Line:**
 
->This just logs when you move files with G binds just to keep a trail if you loose a clips, a new log is created and used everyday for ease of use
+>This just logs when you move files with G binds just to keep a trail if you lose a clip, a new log is created and used everyday for ease of use
 
 **Third Line:**
 
->Just the locations to tell shadowplay or Obs to save your videos to
+>Just the location to tell shadowplay or Obs to save your videos to
 
 **Fourth Line:**
 
@@ -142,7 +142,7 @@ Location where ShadowPlay folder is if the checkbox above is checked
 
 **Thirteenth Line:**
 
->Just select if you use both ShadowPlay and OBS, this lets you select which one your using when oyu launch GKey Movie
+>Just select if you use both ShadowPlay and OBS, this lets you select which one your using when you launch GKey Movie
 
 **Fourteenth Line:** **THIRTEENTH LINE MUST BE TRUE FOR THIS TO WORK**
 
