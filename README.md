@@ -7,6 +7,8 @@ __Everything below here is basically a rip from what gets generated in your opti
 
 
 # README
+By default the binds for your GKey's are f13, f14, and f15. I use my keyboards software ICue to bind these to my GKeys and you will have to do something similar if you want to be able to use this program's GKey's
+
 To edit the options simply chage each line above while following the ```Options for variables``` guide (helps to turn on line numbers in your txt editor)
 
 Only edit varaibles at top of options files if you've read below about what each ones means
@@ -22,7 +24,7 @@ Don't try to rename the folders afterwards, it will only move the files to a fol
 By default I filled out the variables for what I use,
 there will be a copy at the bottom of this txt to reference as an example for the future if you ever need it.
 
-**DO NOT EDIT THE ELEVENTH LINE.** 
+**DO NOT EDIT THE EIGHTEENTH LINE.** 
 
 `"DO NOT EDIT THIS SINGLE LINE OF TEXT"`
  MUST NOT BE CHANGED TO TELL THE ARRAY THIS IS THE END OF THE VARIABLES
@@ -86,6 +88,14 @@ Do you want to be prompt whether to use OBS or ShadowPlay when you launch GKey M
 Location where ShadowPlay folder is if the checkbox above is checked
 **Fourteenth line usage: {C:\Users\cbuzi\Videos}**
 
+Add the option to push Ctrl + GKey to open up gui to rename file
+**Fifthteenth line usage: {True} or {False}**
+
+Add the option to play a noise X miliseconds after a clip is recorded
+**Sixteenth line usage: {True} or {False}
+
+Amount in miliseconds to delay a sound being played after a clip is recored
+**Seventeenth line usage: {70000} 
 
 
 
@@ -148,7 +158,19 @@ Location where ShadowPlay folder is if the checkbox above is checked
 
 >Just put the path of where ShadowPlay folder is including the file extension, put {default} in the option.txt to not use this
 
-**Fifteenth Line:** 
+**Fifthteenth Line:**
+
+>This adds the option to push Ctrl + GKey to open window to add text to the end of your clip's file name
+
+**Sixteenth Line:** 
+
+>This add option for a noise to be played to remind you that it's been x seconds since the last clip so if you want to record everything to edit your clips it into a continous clip record another clip now. To use the renaming feature hold Ctrl and whatever folder you moved your last clip to and a box will popup so you can add a name to the end of the file
+
+**Seventeenth Line:** 
+
+>This is the time in miliseconds to set the timer for, I reccomend 5 less seconds than your shadowplay time just to give some wiggle room for you to react and for other varaibles in the timing of all the code executing. For example I have shadowplay record 1:15 at a time so I want a sound notfication after 1:10 so i would put 70000 in the box 
+
+**Eighteenth Line:** 
 
 >This must not be chaged it tell the program this is the end of the options part of this txt
 
@@ -183,6 +205,8 @@ True
 default
 False
 default
+True
+70000
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
 
@@ -206,5 +230,32 @@ True
 default
 False
 default
+True
+70000
+DO NOT EDIT THIS SINGLE LINE OF TEXT
+```
+
+
+
+My default variables for shadowplay AND obs
+**(DON'T EDIT THIS, IT'S A REFERENCE)**
+```
+obs
+True
+C:\Users\cbuzi\Videos\OBS NVENC Videos
+False
+True
+True
+!! or ! (G1)
+odd or checked (G2)
+!!! (G3)
+default
+True
+default
+True
+C:\Users\cbuzi\Videos
+True
+True
+70000
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
