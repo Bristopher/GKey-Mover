@@ -97,6 +97,20 @@ Add the option to play a noise X miliseconds after a clip is recorded
 Amount in miliseconds to delay a sound being played after a clip is recored
 **Seventeenth line usage: {70000} 
 
+A new bind other than F13 for your G1GKey
+**Eighteenth line usage: {^g} or {F16} 
+
+A new bind other than F14 for your G2GKey
+**Ninteenth line usage: {^h} or {F17} 
+
+A new bind other than F15 for your G3GKe
+**Twentieth line usage: {^j} or {F18} 
+
+A new bind other than Ctrl + G1Key for renaming clips
+**Twenty-First line usage: {+b} or {F19} 
+
+Do you want to log when you rename clips?
+**Twenty-Second line usage {True} or {False}
 
 
 
@@ -170,8 +184,25 @@ Amount in miliseconds to delay a sound being played after a clip is recored
 
 >This is the time in miliseconds to set the timer for, I reccomend 5 less seconds than your shadowplay time just to give some wiggle room for you to react and for other varaibles in the timing of all the code executing. For example I have shadowplay record 1:15 at a time so I want a sound notfication after 1:10 so i would put 70000 in the box 
 
-**Eighteenth Line:** 
+**Eighteenth Line:**
+>This allows you to change the default bind for your G1Gkey from F13 to whatever you want if you dont know the format click the bottom at the bottom of the gui
 
+**Ninteenth Line:**
+>This allows you to change the default bind for your G2Gkey from F14 to whatever you want if you dont know the format click the bottom at the bottom of the gui
+
+**Twentieth Line:**
+>This allows you to change the default bind for your G3Gkey from F15 to whatever you want if you dont know the format click the bottom at the bottom of the gui
+
+**Twenty-First Line:** **FIFTEENTH LINE MUST BE TRUE FOR THIS TO WORK**
+>This allows you to change the default bind for renaming clips from Ctrl + G1Gkey to whatever you want if you dont know the format click the bottom at the bottom of the gui
+
+**Tenty-Second Line:**
+>This will log any clip renaming, it will log the original name and the new name
+
+**Twenty-Third Line:**
+>This must not be chaged it tell the program this is the end of the options part of this txt
+
+**Eighteenth Line:** 
 >This must not be chaged it tell the program this is the end of the options part of this txt
 
 
@@ -207,6 +238,11 @@ False
 default
 True
 70000
+default
+default
+default
+default
+True
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
 
@@ -232,6 +268,11 @@ False
 default
 True
 70000
+default
+default
+default
+default
+True
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
 
@@ -257,5 +298,10 @@ C:\Users\cbuzi\Videos
 True
 True
 70000
+default
+default
+default
+default
+True
 DO NOT EDIT THIS SINGLE LINE OF TEXT
 ```
