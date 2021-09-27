@@ -3,7 +3,7 @@ Once you double click GKey Mover it will unpack its files so I suggest putting i
 
 <br />
 
-__Everything below here is basically a rip from what gets generated in your options.txt from Gui Generator which you will get acess to when you double click GKey Mover__ 
+__Everything below here is basically a rip from what gets generated in your options.txt from Gui Generator which you will get access to when you double click GKey Mover__ 
 
 
 # README
