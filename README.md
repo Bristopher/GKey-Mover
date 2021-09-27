@@ -103,7 +103,7 @@ A new bind other than F13 for your G1GKey
 A new bind other than F14 for your G2GKey
 **Ninteenth line usage: {^h} or {F17}**
 
-A new bind other than F15 for your G3GKe
+A new bind other than F15 for your G3GKey
 **Twentieth line usage: {^j} or {F18}**
 
 A new bind other than Ctrl + G1Key for renaming clips
