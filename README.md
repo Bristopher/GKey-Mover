@@ -92,25 +92,25 @@ Add the option to push Ctrl + GKey to open up gui to rename file
 **Fifthteenth line usage: {True} or {False}**
 
 Add the option to play a noise X miliseconds after a clip is recorded
-**Sixteenth line usage: {True} or {False}
+**Sixteenth line usage: {True} or {False}**
 
 Amount in miliseconds to delay a sound being played after a clip is recored
-**Seventeenth line usage: {70000} 
+**Seventeenth line usage: {70000} **
 
 A new bind other than F13 for your G1GKey
-**Eighteenth line usage: {^g} or {F16} 
+**Eighteenth line usage: {^g} or {F16}**
 
 A new bind other than F14 for your G2GKey
-**Ninteenth line usage: {^h} or {F17} 
+**Ninteenth line usage: {^h} or {F17}**
 
 A new bind other than F15 for your G3GKe
-**Twentieth line usage: {^j} or {F18} 
+**Twentieth line usage: {^j} or {F18}**
 
 A new bind other than Ctrl + G1Key for renaming clips
-**Twenty-First line usage: {+b} or {F19} 
+**Twenty-First line usage: {+b} or {F19}**
 
 Do you want to log when you rename clips?
-**Twenty-Second line usage {True} or {False}
+**Twenty-Second line usage {True} or {False}**
 
 
 
